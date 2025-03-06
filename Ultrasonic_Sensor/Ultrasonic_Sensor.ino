@@ -1,5 +1,5 @@
-const int trigger = 9;
-const int echo = 10;
+const int trigger = 22;
+const int echo = 23;
 
 long duration;
 int distance;
